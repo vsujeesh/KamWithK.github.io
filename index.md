@@ -1,3 +1,7 @@
+---
+redirect_to: "http://www.kamwithk.com"
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KamWithK/KamWithK.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
